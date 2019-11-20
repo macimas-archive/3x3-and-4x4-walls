@@ -1,0 +1,12 @@
+{
+	"type": "Block",
+	"name": "Huge Copper Wall",
+	"description": "A strong defensive block. It's quite compressed, making it even more stronger. Spans multiple tiles.",
+	"health": 5120,
+	"size": 3,
+	"breakable": true,
+	"category": "defense",
+	"requirements": [
+		{ "item": "copper", "amount": 288 }
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"type": "Block",
+	"name": "Huge Surge Wall",
+	"description": "An extremely durable defensive block. Builds up charge on bullet contact, releasing it randomly. Spans multiple tiles.",
+	"health": 7360,
+	"size": 3,
+	"breakable": true,
+	"category": "defense",
+	"requirements": [
+		{ "item": "surge-alloy", "amount": 96 }
+	]
+}

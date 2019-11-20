@@ -1,0 +1,12 @@
+{
+	"type": "Block",
+	"name": "Gigantic Copper Wall",
+	"description": "A decent defensive block. Useful for protecting the core and turrets. Spans multiple tiles.",
+	"health": 3840,
+	"size": 4,
+	"breakable": true,
+	"category": "defense",
+	"requirements": [
+		{ "item": "copper", "amount": 96 }
+	]
+}

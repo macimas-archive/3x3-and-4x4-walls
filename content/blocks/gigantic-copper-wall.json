@@ -1,5 +1,5 @@
 {
-	"type": "Block",
+	"type": "Wall",
 	"name": "Gigantic Copper Wall",
 	"description": "A decent defensive block. Useful for protecting the core and turrets. Spans multiple tiles.",
 	"health": 3840,

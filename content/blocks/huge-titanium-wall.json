@@ -1,5 +1,5 @@
 {
-	"type": "Block",
+	"type": "Wall",
 	"name": "Huge Titanium Wall",
 	"description": "A extremely strong defensive block. Provides moderate protection from enemies. Spans multiple tiles.",
 	"health": 7040,

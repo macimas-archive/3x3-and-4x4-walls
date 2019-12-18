@@ -1,5 +1,5 @@
 {
-	"type": "Block",
+	"type": "Wall",
 	"name": "Huge Thorium Wall",
 	"description": "A strong defensive block. Decent protection from enemies. Spans multiple tiles.",
 	"health": 6400,

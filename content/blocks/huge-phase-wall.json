@@ -1,5 +1,5 @@
 {
-	"type": "Block",
+	"type": "DeflectorWall",
 	"name": "Huge Phase Wall",
 	"description": "A wall coated with special phase-based reflective compound. Deflects most bullets upon impact. Spans multiple tiles.",
 	"health": 4800,

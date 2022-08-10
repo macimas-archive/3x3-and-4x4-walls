@@ -1,5 +1,5 @@
 {
-	"type": "Block",
+	"type": "Wall",
 	"name": "Huge Copper Wall",
 	"description": "A strong defensive block. It's quite compressed, making it even more stronger. Spans multiple tiles.",
 	"health": 5120,

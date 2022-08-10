@@ -1,5 +1,5 @@
 {
-	"type": "Block",
+	"type": "SurgeWall",
 	"name": "Gigantic Surge Wall",
 	"description": "A insane defensive block. Strong protection from enemies. Spans multiple tiles.",
 	"health": 14720,

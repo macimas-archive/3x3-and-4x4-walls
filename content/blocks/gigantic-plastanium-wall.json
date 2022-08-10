@@ -1,5 +1,5 @@
 {
-	"type": "Block",
+	"type": "Wall",
 	"name": "Gigantic Plastanium Wall",
 	"description": "A special type of wall that absorbs electric arcs and blocks automatic power node connections. Spans multiple tiles.",
 	"health": 12160,

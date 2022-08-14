@@ -1,0 +1,13 @@
+{
+	"type": "Wall",
+	"name": "Huge Surge Wall",
+	"description": "Protects structures from enemy projectiles, periodically releasing electric arcs upon contact.",
+	"health": 7360,
+	"size": 3,
+	"lightningChance": 0.05,
+	"category": "defense",
+	"research": "surge-wall-huge",
+	"requirements": [
+		{ "item": "surge-alloy", "amount": 96 }
+	]
+}

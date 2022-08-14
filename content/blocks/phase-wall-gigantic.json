@@ -1,11 +1,13 @@
 {
 	"type": "DeflectorWall",
 	"name": "Gigantic Phase Wall",
-	"description": "A wall coated with special phase-based reflective compound. Deflects most bullets upon impact. Spans multiple tiles.",
+	"description": "Protects structures from enemy projectiles, reflecting most bullets upon impact.",
 	"health": 9600,
 	"size": 4,
-	"breakable": true,
+	"chanceDeflect": 10.0,
+	"flashHit": true,
 	"category": "defense",
+	"research": "phase-wall-huge",
 	"requirements": [
 		{ "item": "phase-fabric", "amount": 288 }
 	]

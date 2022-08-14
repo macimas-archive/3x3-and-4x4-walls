@@ -1,0 +1,15 @@
+{
+	"type": "Wall",
+	"name": "Gigantic Plastanium Wall",
+	"description": "Protects structures from enemy projectiles. Absorbs lasers and electric arcs. Blocks automatic power connections.",
+	"health": 12160,
+	"size": 4,
+	"insulated": true,
+	"absorbLasers": true,
+	"schematicPriority": 10,
+	"category": "defense",
+	"research": "plastanium-wall-huge",
+	"requirements": [
+		{ "item": "plastanium", "amount": 288 }
+	]
+}

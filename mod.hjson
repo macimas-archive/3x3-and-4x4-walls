@@ -1,0 +1,6 @@
+name: "3x3-and-4x4-walls"
+displayName: "3×3 and 4×4 walls"
+version: "1.1"
+minGameVersion: "137"
+author: "macimas"
+description: "vanilla walls with 3×3 and 4×4 counterparts"

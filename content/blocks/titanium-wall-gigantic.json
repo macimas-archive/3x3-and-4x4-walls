@@ -4,8 +4,8 @@
 	"description": "A extremely strong defensive block. Provides moderate protection from enemies. Spans multiple tiles.",
 	"health": 7040,
 	"size": 4,
-	"breakable": true,
 	"category": "defense",
+	"research": "titanium-wall-huge",
 	"requirements": [
 		{ "item": "titanium", "amount": 288 }
 	]

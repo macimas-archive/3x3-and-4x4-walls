@@ -1,11 +1,11 @@
 {
 	"type": "Wall",
 	"name": "Gigantic Thorium Wall",
-	"description": "A insane defensive block. Strong protection from enemies. Spans multiple tiles.",
+	"description": "Protects structures from enemy projectiles.",
 	"health": 12800,
 	"size": 4,
-	"breakable": true,
 	"category": "defense",
+	"research": "thorium-wall-huge",
 	"requirements": [
 		{ "item": "thorium", "amount": 288 }
 	]

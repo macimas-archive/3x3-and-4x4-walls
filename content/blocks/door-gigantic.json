@@ -1,0 +1,12 @@
+{
+	"type": "Wall",
+	"name": "Gigantic Door",
+	"description": "A wall that can be opened and closed.",
+	"health": 1,
+	"size": 3,
+	"category": "defense",
+	"research": "door-huge",
+	"requirements": [
+		{ "item": "copper", "amount": 288 }
+	]
+}
